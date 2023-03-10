@@ -5,7 +5,7 @@ The Kafka consumer API is built using the Kafka client library, which provides a
 The high-level architecture of a Kafka consumer API can be represented as follows:
 
 
-```mermaid
+```
                     +----------------+
                     | Kafka Producers|
                     +----------------+
