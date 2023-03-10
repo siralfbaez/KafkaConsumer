@@ -22,7 +22,7 @@ The high-level architecture of a Kafka consumer API can be represented as follow
                             |
                             |
                    +------------------+
-                   | Apps / Business  |
+                   | Apps - Business  |
                    +------------------+
 
 ```
